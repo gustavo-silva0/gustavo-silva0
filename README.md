@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **gustavo.ssilva0@outlook.com / gustavo.ssilvasantos0@gmail.com**
 
-- ⚡ Fun fact about me **I enjoy from tecnology, chemical, geopraphy, geology, physic and chess.**
+- ⚛️ Fun fact about me **I enjoy from tecnology, chemical, geopraphy, geology, physic and chess.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
