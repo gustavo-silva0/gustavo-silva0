@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gustavo</h1>
-<h3 align="center">I´m studant from computer science interessad in date analysis, date geospation and climatology.</h3>
+<h3 align="center">I´m studant from computer science interessad in date analysis, simulation, date geospation and climatology.</h3>
 
 - 🌱 I’m currently learning **Python, SQL, Databases, Molding and QGIS**
 
@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/](https://medium.com/)
 
-- ✏️ Interested in learning **C++, C, Blender, R, Pandas etc.**
+- ✏️ Interested in learning **C++, C, Blender, R, Pandas, Fortran etc.**
 
 - 📫 How to reach me **gustavo.ssilva0@outlook.com / gustavo.ssilvasantos0@gmail.com**
 
