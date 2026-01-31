@@ -57,7 +57,12 @@
 ## 🛠️ Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,postgresql,html,css" />
+  <!-- skillicons -->
+  <img src="https://skillicons.dev/icons?i=python,postgresql,html,css" /><!-- Jupyter Notebook -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg"
+       width="48" height="48" alt="Jupyter Notebook" /> <!-- Matplotlib -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg"
+       width="48" height="48" alt="Matplotlib" />
 </p>
 
 ## 🧰 Tools & Software
