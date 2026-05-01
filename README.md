@@ -61,7 +61,7 @@
 ## 🛠️ Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,postgres,mysql" />
+  <img src="https://skillicons.dev/icons?i=c,python" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg"
        width="48" height="48" alt="Matplotlib" />
 </p>
@@ -69,7 +69,7 @@
 ## 🧰 Tools & Software
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,postgres" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/QGIS_logo_new.svg" 
        width="48" height="48" alt="QGIS" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg"
