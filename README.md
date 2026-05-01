@@ -22,10 +22,10 @@
   
   I enjoy learning not only programming languages, but also the <b>mathematical and scientific foundations</b> behind them, especially simulations and models of complex systems.
   
-  - 🌱 Currently learning <b>Python, SQL, Databases, Modeling and QGIS</b>  
+  - 🌱 Currently learning <b>C, SQL, Modeling and QGIS</b>  
   - 👯 Interested in working with <b>Data Science & Applied Analysis</b>  
   - 📝 I write articles on <b>Medium</b> about learning and technology  
-  - ✏️ Interested in learning <b>C, C++, R, Pandas, Fortran, Blender</b>  
+  - ✏️ Interested in learning <b>C++, R, Pandas, Fortran, Blender</b>  
   - ⚛️ I enjoy <b>technology, chemistry, geography, geology, physics and chess</b>
 </details>
 
@@ -50,8 +50,9 @@
   <a href="mailto:gustavo.ssilvasantos0@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/gustavo-silva0" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
@@ -60,10 +61,7 @@
 ## 🛠️ Languages
 
 <p align="center">
-  <!-- skillicons -->
-  <img src="https://skillicons.dev/icons?i=python,postgresql,html,css" /><!-- Jupyter Notebook -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg"
-       width="48" height="48" alt="Jupyter Notebook" /> <!-- Matplotlib -->
+  <img src="https://skillicons.dev/icons?i=c,python,postgres,mysql" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg"
        width="48" height="48" alt="Matplotlib" />
 </p>
@@ -71,7 +69,9 @@
 ## 🧰 Tools & Software
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=bootstrap,figma,git" />
+  <img src="https://skillicons.dev/icons?i=vscode,git" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/QGIS_logo_new.svg" 
+       width="48" height="48" alt="QGIS" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg"
+       width="48" height="48" alt="Jupyter Notebook" />
 </p>
-
-
